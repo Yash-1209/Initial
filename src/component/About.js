@@ -30,7 +30,7 @@ export default function About() {
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button" type="button"style={myStyle} data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Accordion Item #1
+      Gaurav Gupta
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" style={myStyle}data-bs-parent="#accordionExample">
